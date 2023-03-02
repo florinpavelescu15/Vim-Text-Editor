@@ -5,7 +5,7 @@ Am folosit o parte din funcțiile pe care le-am implementat
 pentru *liste* și *stive* în laboratoarele 4 și 5.
 
 # IMPLEMENTARE
-Am utilizat o *listă dublu înlănțuită cu santinelă*pentru 
+Am utilizat o *listă dublu înlănțuită cu santinelă* pentru 
 a reține textul asupra căruia trebuie efectuate modificările 
 și două *stive* pentru a reține istoricul comenzilor (una pentru `undo` și 
 alta pentru `redo`).
